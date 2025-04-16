@@ -1,0 +1,68 @@
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe.config
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.pdb
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.cache
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.lref
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.g.resources
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.Properties.Resources.resources
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.exe
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.pdb
+C:\Users\Artem\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe.config
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.pdb
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.cache
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.lref
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.g.resources
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.Properties.Resources.resources
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.exe
+C:\Users\Admin\Desktop\ЧисМет. Лаба №2\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.pdb
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe.config
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.pdb
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.cache
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.lref
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.g.resources
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.Properties.Resources.resources
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.exe
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.pdb
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\Cell.g.cs
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\ViewSystemEquations.g.cs
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\Cell.baml
+C:\Users\Admin\Documents\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\ViewSystemEquations.baml
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe.config
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.exe
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\bin\Debug\SolutionSystemEquations.pdb
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\MainWindow.g.cs
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\Cell.g.cs
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\ViewSystemEquations.g.cs
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\App.g.cs
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.cache
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations_MarkupCompile.lref
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\MainWindow.baml
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\Cell.baml
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\viewMatrix\ViewSystemEquations.baml
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.g.resources
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.Properties.Resources.resources
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csproj.GenerateResource.cache
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.exe
+D:\Учеба\3 курс 1 семестр\Численные методы\Решение СЛАУ\SolutionSystemEquations\obj\Debug\SolutionSystemEquations.pdb
